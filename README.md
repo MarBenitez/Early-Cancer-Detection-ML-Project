@@ -66,9 +66,6 @@ For more details on the datasets, please refer to the PDF project report.
 Contributions are welcome. Please open an issue or make a pull request for suggestions or improvements.
 
 ## Contact
-- Authors: Florina Cretu, Mar Benitez de Lucio Villegas, Kevin Jhoan Orozco Agudelo, Daniel del Río Alonso.
-- Tutor: Antonio Pita Lozano.
-
 For any inquiries, you can [contact me]([mar27benitez@gmail.com](https://www.linkedin.com/in/mar-benitez-506910192/)).
 
 ## License
