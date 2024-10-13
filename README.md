@@ -54,7 +54,7 @@ For more details on the datasets, please refer to the PDF project report.
 ## Installation and Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/your_username/early-cancer-detection-ml.git
+   git clone https://github.com/MarBenitez/Early-Cancer-Detection-ML-Project
    ```
 2. Install the dependencies:
    ```
