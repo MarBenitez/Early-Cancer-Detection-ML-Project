@@ -69,7 +69,7 @@ Contributions are welcome. Please open an issue or make a pull request for sugge
 - Authors: Florina Cretu, Mar Benitez de Lucio Villegas, Kevin Jhoan Orozco Agudelo, Daniel del Río Alonso.
 - Tutor: Antonio Pita Lozano.
 
-For any inquiries, you can contact [Mar Benitez](https://github.com/MarBenitez).
+For any inquiries, you can contact [Mar Benitez](mar27benitez@gmail.com).
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
