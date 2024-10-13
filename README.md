@@ -66,7 +66,7 @@ For more details on the datasets, please refer to the PDF project report.
 Contributions are welcome. Please open an issue or make a pull request for suggestions or improvements.
 
 ## Contact
-For any inquiries, you can [contact me]([mar27benitez@gmail.com](https://www.linkedin.com/in/mar-benitez-506910192/)).
+For any inquiries, you can [contact me](https://www.linkedin.com/in/mar-benitez-506910192/)).
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
