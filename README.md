@@ -1,7 +1,7 @@
 # Early Cancer Detection through Multianalyte Blood Test and Machine Learning Models
 
 ## Project Overview
-This project aims to improve early cancer detection through multianalyte blood analysis and machine learning models. We replicated and enhanced the findings of the study "Early Cancer Detection from Multianalyte Blood Test Results" to predict both the presence and type of cancer. A variety of supervised models were used, including Naive Bayes, decision trees, and deep learning, with a focus on the CancerA1DE model.
+This project aims to improve early cancer detection through multianalyte blood analysis and machine learning models. The findings of the study "Early Cancer Detection from Multianalyte Blood Test Results" were replicated and enhanced to predict both the presence and type of cancer. A variety of supervised models were used, including Naive Bayes, decision trees, and deep learning, with a focus on the CancerA1DE model.
 
 For detailed information, please refer to the project report provided in PDF format.
 
